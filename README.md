@@ -12,7 +12,6 @@ This is a starter template for creating React component libraries using Vite. It
 - Vitest: A next generation testing framework.
 - ESLint: A tool that finds and fixes problems in your code.
 - Prettier: A code formatter.
-- Husky: A pre-commit hook.
 - Github Action: A tool that deploys your Storybook to GitHub page automatically.
 
 ## Get Started
